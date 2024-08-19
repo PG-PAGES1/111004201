@@ -1,0 +1,180 @@
+
+bgfree.png
+size: 2044,1857
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huanghouyingzi/01
+  rotate: false
+  xy: 1431, 656
+  size: 610, 434
+  orig: 610, 434
+  offset: 0, 0
+  index: -1
+huanghouyingzi/04
+  rotate: true
+  xy: 1184, 146
+  size: 508, 859
+  orig: 508, 859
+  offset: 0, 0
+  index: -1
+huanghouyingzi/06
+  rotate: true
+  xy: 1, 1230
+  size: 302, 685
+  orig: 302, 685
+  offset: 0, 0
+  index: -1
+huanghouyingzi/07
+  rotate: true
+  xy: 1651, 1636
+  size: 220, 263
+  orig: 220, 263
+  offset: 0, 0
+  index: -1
+huanghouyingzi/09
+  rotate: false
+  xy: 1461, 1706
+  size: 188, 150
+  orig: 188, 150
+  offset: 0, 0
+  index: -1
+huanghouyingzi/10
+  rotate: true
+  xy: 688, 1054
+  size: 320, 741
+  orig: 321, 741
+  offset: 1, 0
+  index: -1
+huanghouyingzi/11
+  rotate: true
+  xy: 451, 1534
+  size: 171, 680
+  orig: 185, 734
+  offset: 11, 0
+  index: -1
+huanghouyingzi/12
+  rotate: true
+  xy: 265, 1746
+  size: 110, 322
+  orig: 141, 353
+  offset: 31, 26
+  index: -1
+huanghouyingzi/13
+  rotate: true
+  xy: 1133, 1376
+  size: 328, 442
+  orig: 328, 442
+  offset: 0, 0
+  index: -1
+huanghouyingzi/14
+  rotate: false
+  xy: 519, 1
+  size: 631, 599
+  orig: 631, 599
+  offset: 0, 0
+  index: -1
+huanghouyingzi/15
+  rotate: true
+  xy: 1, 843
+  size: 385, 549
+  orig: 385, 549
+  offset: 0, 0
+  index: -1
+huangshangyingzi/03
+  rotate: false
+  xy: 552, 602
+  size: 630, 450
+  orig: 630, 450
+  offset: 0, 0
+  index: -1
+huangshangyingzi/04
+  rotate: true
+  xy: 1, 263
+  size: 578, 516
+  orig: 578, 516
+  offset: 0, 0
+  index: -1
+huangshangyingzi/05
+  rotate: false
+  xy: 1577, 1092
+  size: 340, 542
+  orig: 340, 542
+  offset: 0, 0
+  index: -1
+huangshangyingzi/07
+  rotate: true
+  xy: 1, 1593
+  size: 151, 448
+  orig: 151, 448
+  offset: 0, 0
+  index: -1
+huangshangyingzi/09
+  rotate: false
+  xy: 589, 1740
+  size: 163, 116
+  orig: 163, 116
+  offset: 0, 0
+  index: -1
+huangshangyingzi/10
+  rotate: false
+  xy: 1011, 1707
+  size: 448, 149
+  orig: 448, 149
+  offset: 0, 0
+  index: -1
+huangshangyingzi/11
+  rotate: true
+  xy: 1, 1783
+  size: 73, 262
+  orig: 73, 262
+  offset: 0, 0
+  index: -1
+huangshangyingzi/12
+  rotate: false
+  xy: 754, 1713
+  size: 255, 143
+  orig: 283, 148
+  offset: 0, 0
+  index: -1
+
+bgfree2.png
+size: 1943,1400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huanghouyingzi/02
+  rotate: true
+  xy: 1329, 19
+  size: 603, 608
+  orig: 603, 608
+  offset: 0, 0
+  index: -1
+huanghouyingzi/03
+  rotate: true
+  xy: 511, 511
+  size: 888, 802
+  orig: 888, 802
+  offset: 0, 0
+  index: -1
+huanghouyingzi/05
+  rotate: true
+  xy: 1329, 624
+  size: 775, 613
+  orig: 792, 613
+  offset: 17, 0
+  index: -1
+huangshangyingzi/01
+  rotate: true
+  xy: 1, 360
+  size: 1039, 508
+  orig: 1039, 508
+  offset: 0, 0
+  index: -1
+huangshangyingzi/02
+  rotate: false
+  xy: 511, 1
+  size: 816, 508
+  orig: 816, 508
+  offset: 0, 0
+  index: -1

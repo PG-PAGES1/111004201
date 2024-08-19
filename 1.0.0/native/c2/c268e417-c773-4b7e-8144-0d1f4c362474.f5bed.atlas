@@ -1,0 +1,124 @@
+
+sjkais.png
+size: 1999,2022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bl_sushi_a_a
+  rotate: false
+  xy: 1325, 1668
+  size: 674, 354
+  orig: 674, 354
+  offset: 0, 0
+  index: -1
+bl_sushi_a_b
+  rotate: false
+  xy: 3, 1738
+  size: 631, 284
+  orig: 631, 284
+  offset: 0, 0
+  index: -1
+bl_sushi_b_b
+  rotate: false
+  xy: 636, 1694
+  size: 687, 328
+  orig: 687, 328
+  offset: 0, 0
+  index: -1
+bl_wave
+  rotate: false
+  xy: 1176, 0
+  size: 756, 582
+  orig: 756, 582
+  offset: 0, 0
+  index: -1
+jinrushangjinmoshiguangxiao/bl_trans_00
+  rotate: false
+  xy: 0, 2021
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jinrushangjinmoshiguangxiao/bl_trans_01
+  rotate: true
+  xy: 588, 1152
+  size: 540, 586
+  orig: 540, 586
+  offset: 0, 0
+  index: -1
+jinrushangjinmoshiguangxiao/bl_trans_02
+  rotate: true
+  xy: 1176, 1126
+  size: 540, 586
+  orig: 540, 586
+  offset: 0, 0
+  index: -1
+jinrushangjinmoshiguangxiao/bl_trans_03
+  rotate: true
+  xy: 0, 654
+  size: 540, 586
+  orig: 540, 586
+  offset: 0, 0
+  index: -1
+jinrushangjinmoshiguangxiao/bl_trans_04
+  rotate: true
+  xy: 588, 610
+  size: 540, 586
+  orig: 540, 586
+  offset: 0, 0
+  index: -1
+jinrushangjinmoshiguangxiao/bl_trans_05
+  rotate: true
+  xy: 1176, 584
+  size: 540, 586
+  orig: 540, 586
+  offset: 0, 0
+  index: -1
+jinrushangjinmoshiguangxiao/bl_trans_06
+  rotate: true
+  xy: 0, 112
+  size: 540, 586
+  orig: 540, 586
+  offset: 0, 0
+  index: -1
+jinrushangjinmoshiguangxiao/bl_trans_07
+  rotate: true
+  xy: 588, 68
+  size: 540, 586
+  orig: 540, 586
+  offset: 0, 0
+  index: -1
+jinrushangjinmoshiguangxiao/bl_trans_08
+  rotate: true
+  xy: 0, 1196
+  size: 540, 586
+  orig: 540, 586
+  offset: 0, 0
+  index: -1
+
+sjkais2.png
+size: 1737,1665
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bl_bg
+  rotate: true
+  xy: 0, 0
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+bl_shine_add
+  rotate: true
+  xy: 0, 542
+  size: 1123, 1131
+  orig: 1123, 1131
+  offset: 0, 0
+  index: -1
+bl_sushi_b_a
+  rotate: true
+  xy: 1133, 984
+  size: 681, 604
+  orig: 681, 604
+  offset: 0, 0
+  index: -1

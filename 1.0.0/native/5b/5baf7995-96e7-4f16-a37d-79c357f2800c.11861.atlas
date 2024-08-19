@@ -1,0 +1,146 @@
+
+duobao.jpg
+size: 1975,1115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duobaolizitexiao/fs_particle_add_00
+  rotate: false
+  xy: 1208, 490
+  size: 253, 332
+  orig: 435, 416
+  offset: 112, 53
+  index: -1
+duobaolizitexiao/fs_particle_add_01
+  rotate: false
+  xy: 1463, 532
+  size: 241, 334
+  orig: 435, 416
+  offset: 131, 53
+  index: -1
+duobaolizitexiao/fs_particle_add_02
+  rotate: false
+  xy: 947, 475
+  size: 259, 332
+  orig: 435, 416
+  offset: 118, 54
+  index: -1
+duobaolizitexiao/fs_particle_add_03
+  rotate: true
+  xy: 1520, 0
+  size: 263, 296
+  orig: 435, 416
+  offset: 118, 56
+  index: -1
+duobaolizitexiao/fs_particle_add_04
+  rotate: true
+  xy: 1520, 265
+  size: 265, 296
+  orig: 435, 416
+  offset: 118, 56
+  index: -1
+duobaolizitexiao/fs_particle_add_05
+  rotate: false
+  xy: 1706, 543
+  size: 267, 284
+  orig: 435, 416
+  offset: 118, 56
+  index: -1
+duobaolizitexiao/fs_particle_add_06
+  rotate: false
+  xy: 1706, 829
+  size: 269, 286
+  orig: 435, 416
+  offset: 117, 54
+  index: -1
+duobaolizitexiao/fs_particle_add_07
+  rotate: false
+  xy: 1237, 200
+  size: 281, 288
+  orig: 435, 416
+  offset: 106, 49
+  index: -1
+duobaolizitexiao/fs_particle_add_08
+  rotate: true
+  xy: 958, 824
+  size: 291, 290
+  orig: 435, 416
+  offset: 96, 46
+  index: -1
+duobaolizitexiao/fs_particle_add_09
+  rotate: true
+  xy: 945, 162
+  size: 297, 290
+  orig: 435, 416
+  offset: 90, 44
+  index: -1
+duobaolizitexiao/fs_particle_add_10
+  rotate: false
+  xy: 653, 809
+  size: 303, 306
+  orig: 435, 416
+  offset: 84, 42
+  index: -1
+duobaolizitexiao/fs_particle_add_11
+  rotate: false
+  xy: 638, 461
+  size: 307, 318
+  orig: 435, 416
+  offset: 80, 41
+  index: -1
+duobaolizitexiao/fs_particle_add_12
+  rotate: false
+  xy: 636, 106
+  size: 307, 328
+  orig: 435, 416
+  offset: 79, 40
+  index: -1
+duobaolizitexiao/fs_particle_add_13
+  rotate: false
+  xy: 340, 781
+  size: 311, 334
+  orig: 435, 416
+  offset: 76, 40
+  index: -1
+duobaolizitexiao/fs_particle_add_14
+  rotate: false
+  xy: 323, 436
+  size: 313, 338
+  orig: 435, 416
+  offset: 75, 39
+  index: -1
+duobaolizitexiao/fs_particle_add_15
+  rotate: false
+  xy: 319, 86
+  size: 315, 342
+  orig: 435, 416
+  offset: 74, 39
+  index: -1
+duobaolizitexiao/fs_particle_add_16
+  rotate: false
+  xy: 0, 84
+  size: 317, 344
+  orig: 435, 416
+  offset: 73, 39
+  index: -1
+duobaolizitexiao/fs_particle_add_17
+  rotate: false
+  xy: 0, 430
+  size: 321, 344
+  orig: 435, 416
+  offset: 69, 40
+  index: -1
+duobaolizitexiao/fs_particle_add_18
+  rotate: true
+  xy: 1250, 868
+  size: 247, 332
+  orig: 435, 416
+  offset: 111, 53
+  index: -1
+mtp_shine_screen
+  rotate: false
+  xy: 0, 776
+  size: 338, 339
+  orig: 338, 339
+  offset: 0, 0
+  index: -1

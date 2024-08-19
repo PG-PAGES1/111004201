@@ -1,0 +1,389 @@
+
+bigwin.jpg
+size: 1868,1969
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dajiangziseyanhuatexiao/bw_firework_00
+  rotate: true
+  xy: 0, 1796
+  size: 173, 179
+  orig: 419, 431
+  offset: 126, 132
+  index: -1
+images/dajiangziseyanhuatexiao/bw_firework_01
+  rotate: true
+  xy: 181, 1744
+  size: 225, 235
+  orig: 419, 431
+  offset: 100, 103
+  index: -1
+images/dajiangziseyanhuatexiao/bw_firework_02
+  rotate: true
+  xy: 1176, 1702
+  size: 267, 277
+  orig: 419, 431
+  offset: 79, 82
+  index: -1
+images/dajiangziseyanhuatexiao/bw_firework_03
+  rotate: true
+  xy: 1455, 1670
+  size: 299, 311
+  orig: 419, 431
+  offset: 64, 64
+  index: -1
+images/dajiangziseyanhuatexiao/bw_firework_04
+  rotate: true
+  xy: 0, 1417
+  size: 325, 335
+  orig: 419, 431
+  offset: 50, 50
+  index: -1
+images/dajiangziseyanhuatexiao/bw_firework_05
+  rotate: false
+  xy: 930, 1355
+  size: 345, 345
+  orig: 419, 431
+  offset: 40, 38
+  index: -1
+images/glow/bw_glow_screen
+  rotate: false
+  xy: 418, 1718
+  size: 756, 251
+  orig: 756, 251
+  offset: 0, 0
+  index: -1
+images/liuxing/smw_particle_00
+  rotate: true
+  xy: 337, 1384
+  size: 332, 591
+  orig: 332, 596
+  offset: 0, 4
+  index: -1
+images/liuxing/smw_particle_01
+  rotate: true
+  xy: 1277, 1336
+  size: 332, 591
+  orig: 332, 596
+  offset: 0, 5
+  index: -1
+images/liuxing/smw_particle_02
+  rotate: true
+  xy: 0, 1050
+  size: 332, 591
+  orig: 332, 596
+  offset: 0, 5
+  index: -1
+images/liuxing/smw_particle_03
+  rotate: true
+  xy: 593, 1021
+  size: 332, 591
+  orig: 332, 596
+  offset: 0, 5
+  index: -1
+images/liuxing/smw_particle_04
+  rotate: true
+  xy: 1186, 1002
+  size: 332, 589
+  orig: 332, 596
+  offset: 0, 6
+  index: -1
+images/liuxing/smw_particle_05
+  rotate: true
+  xy: 0, 716
+  size: 332, 579
+  orig: 332, 596
+  offset: 0, 6
+  index: -1
+images/liuxing/smw_particle_06
+  rotate: true
+  xy: 581, 687
+  size: 332, 585
+  orig: 332, 596
+  offset: 0, 6
+  index: -1
+images/liuxing/smw_particle_07
+  rotate: true
+  xy: 1168, 668
+  size: 332, 596
+  orig: 332, 596
+  offset: 0, 0
+  index: -1
+images/liuxing/smw_particle_08
+  rotate: true
+  xy: 569, 353
+  size: 332, 595
+  orig: 332, 596
+  offset: 0, 0
+  index: -1
+images/liuxing/smw_particle_09
+  rotate: true
+  xy: 1166, 334
+  size: 332, 595
+  orig: 332, 596
+  offset: 0, 0
+  index: -1
+images/liuxing/smw_particle_10
+  rotate: true
+  xy: 567, 19
+  size: 332, 587
+  orig: 332, 596
+  offset: 0, 8
+  index: -1
+images/liuxing/smw_particle_11
+  rotate: true
+  xy: 1156, 0
+  size: 332, 587
+  orig: 332, 596
+  offset: 0, 8
+  index: -1
+images/liuxing/smw_particle_13
+  rotate: true
+  xy: 0, 382
+  size: 332, 567
+  orig: 332, 596
+  offset: 0, 29
+  index: -1
+images/liuxing/smw_particle_14
+  rotate: true
+  xy: 0, 48
+  size: 332, 565
+  orig: 332, 596
+  offset: 0, 31
+  index: -1
+
+bigwin2.jpg
+size: 1951,1904
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dajiangziseyanhuatexiao/bw_firework_12
+  rotate: false
+  xy: 1364, 501
+  size: 401, 401
+  orig: 419, 431
+  offset: 14, 1
+  index: -1
+images/glow/bw_impact_screen
+  rotate: true
+  xy: 755, 1218
+  size: 686, 577
+  orig: 686, 577
+  offset: 0, 0
+  index: -1
+images/glow/bw_shine_screen
+  rotate: false
+  xy: 0, 334
+  size: 722, 798
+  orig: 722, 798
+  offset: 0, 0
+  index: -1
+images/glow/bw_textglow_screen
+  rotate: false
+  xy: 0, 1134
+  size: 753, 770
+  orig: 753, 770
+  offset: 0, 0
+  index: -1
+images/glow/bw_truckglow_add
+  rotate: true
+  xy: 724, 379
+  size: 753, 638
+  orig: 753, 638
+  offset: 0, 0
+  index: -1
+images/liuxing/smw_particle_12
+  rotate: true
+  xy: 1364, 904
+  size: 332, 587
+  orig: 332, 596
+  offset: 0, 8
+  index: -1
+images/liuxing/smw_particle_15
+  rotate: true
+  xy: 1195, 45
+  size: 332, 593
+  orig: 332, 596
+  offset: 0, 2
+  index: -1
+images/liuxing/smw_particle_16
+  rotate: true
+  xy: 0, 0
+  size: 332, 596
+  orig: 332, 596
+  offset: 0, 0
+  index: -1
+images/liuxing/smw_particle_17
+  rotate: true
+  xy: 598, 0
+  size: 332, 595
+  orig: 332, 596
+  offset: 0, 0
+  index: -1
+images/liuxing/smw_particle_18
+  rotate: true
+  xy: 1334, 1572
+  size: 332, 591
+  orig: 332, 596
+  offset: 0, 4
+  index: -1
+images/liuxing/smw_particle_19
+  rotate: true
+  xy: 1334, 1238
+  size: 332, 591
+  orig: 332, 596
+  offset: 0, 4
+  index: -1
+
+bigwin3.jpg
+size: 1173,1195
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dajiangziseyanhuatexiao/bw_firework_06
+  rotate: false
+  xy: 802, 459
+  size: 361, 361
+  orig: 419, 431
+  offset: 32, 28
+  index: -1
+images/dajiangziseyanhuatexiao/bw_firework_07
+  rotate: false
+  xy: 802, 822
+  size: 371, 373
+  orig: 419, 431
+  offset: 28, 20
+  index: -1
+images/dajiangziseyanhuatexiao/bw_firework_08
+  rotate: false
+  xy: 792, 12
+  size: 381, 383
+  orig: 419, 431
+  offset: 23, 15
+  index: -1
+images/dajiangziseyanhuatexiao/bw_firework_09
+  rotate: false
+  xy: 401, 4
+  size: 389, 389
+  orig: 419, 431
+  offset: 19, 10
+  index: -1
+images/dajiangziseyanhuatexiao/bw_firework_10
+  rotate: false
+  xy: 403, 397
+  size: 395, 395
+  orig: 419, 431
+  offset: 16, 5
+  index: -1
+images/dajiangziseyanhuatexiao/bw_firework_11
+  rotate: false
+  xy: 403, 794
+  size: 397, 401
+  orig: 419, 431
+  offset: 16, 1
+  index: -1
+images/dajiangziseyanhuatexiao/bw_firework_13
+  rotate: false
+  xy: 0, 796
+  size: 401, 399
+  orig: 419, 431
+  offset: 15, 1
+  index: -1
+images/dajiangziseyanhuatexiao/bw_firework_14
+  rotate: false
+  xy: 0, 395
+  size: 401, 399
+  orig: 419, 431
+  offset: 15, 1
+  index: -1
+images/dajiangziseyanhuatexiao/bw_firework_15
+  rotate: false
+  xy: 0, 0
+  size: 399, 393
+  orig: 419, 431
+  offset: 15, 1
+  index: -1
+
+
+bigwin4.png
+size: 2026,1076
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bw_chopstick
+  rotate: true
+  xy: 0, 14
+  size: 22, 305
+  orig: 23, 305
+  offset: 1, 0
+  index: -1
+images/bw_frame
+  rotate: true
+  xy: 1230, 0
+  size: 367, 577
+  orig: 378, 577
+  offset: 4, 0
+  index: -1
+images/bw_sushi
+  rotate: false
+  xy: 219, 59
+  size: 449, 200
+  orig: 449, 200
+  offset: 0, 0
+  index: -1
+images/bw_truck
+  rotate: false
+  xy: 1376, 400
+  size: 394, 312
+  orig: 394, 312
+  offset: 0, 0
+  index: -1
+images/bw_wave
+  rotate: true
+  xy: 1809, 196
+  size: 516, 146
+  orig: 516, 147
+  offset: 0, 1
+  index: -1
+images/mw_frame
+  rotate: true
+  xy: 1376, 714
+  size: 362, 650
+  orig: 362, 650
+  offset: 0, 0
+  index: -1
+images/mw_sakura
+  rotate: true
+  xy: 0, 38
+  size: 221, 217
+  orig: 221, 217
+  offset: 0, 0
+  index: -1
+images/mw_wave
+  rotate: false
+  xy: 670, 9
+  size: 558, 342
+  orig: 558, 342
+  offset: 0, 0
+  index: -1
+images/smw_frame
+  rotate: false
+  xy: 0, 261
+  size: 395, 815
+  orig: 399, 815
+  offset: 4, 0
+  index: -1
+images/smw_wave
+  rotate: false
+  xy: 397, 353
+  size: 541, 723
+  orig: 541, 726
+  offset: 0, 2
+  index: -1
+images/smw_wave_b
+  rotate: false
+  xy: 940, 369
+  size: 434, 707
+  orig: 434, 709
+  offset: 0, 1
+  index: -1

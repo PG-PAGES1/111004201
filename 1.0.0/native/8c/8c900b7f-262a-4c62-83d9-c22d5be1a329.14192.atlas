@@ -1,0 +1,20 @@
+
+freebtn.jpg
+size: 219,90
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_a_total
+  rotate: true
+  xy: 170, 1
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+glow_b_total
+  rotate: false
+  xy: 1, 10
+  size: 167, 79
+  orig: 167, 79
+  offset: 0, 0
+  index: -1

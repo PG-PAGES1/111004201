@@ -1,0 +1,54 @@
+
+sjjsuan.png
+size: 1850,1302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bl_bg
+  rotate: true
+  xy: 654, 760
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+bw_shine_screen
+  rotate: true
+  xy: 2, 36
+  size: 722, 798
+  orig: 722, 798
+  offset: 0, 0
+  index: -1
+tw_banner
+  rotate: true
+  xy: 2, 928
+  size: 372, 650
+  orig: 379, 669
+  offset: 7, 19
+  index: -1
+tw_wave
+  rotate: true
+  xy: 802, 2
+  size: 756, 1046
+  orig: 756, 1048
+  offset: 0, 1
+  index: -1
+
+sjjsuan2.png
+size: 1642,1635
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tw_bg
+  rotate: true
+  xy: 2, 877
+  size: 756, 1638
+  orig: 756, 1638
+  offset: 0, 0
+  index: -1
+tw_truck
+  rotate: true
+  xy: 2, 2
+  size: 873, 1303
+  orig: 873, 1303
+  offset: 0, 0
+  index: -1

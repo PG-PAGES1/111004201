@@ -1,0 +1,104 @@
+
+bonusloading_truck.png
+size: 1020,1045
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+character_arm_left
+  rotate: true
+  xy: 962, 921
+  size: 122, 56
+  orig: 122, 56
+  offset: 0, 0
+  index: -1
+character_arm_right
+  rotate: false
+  xy: 946, 824
+  size: 71, 95
+  orig: 71, 95
+  offset: 0, 0
+  index: -1
+character_body
+  rotate: false
+  xy: 764, 164
+  size: 57, 129
+  orig: 57, 129
+  offset: 0, 0
+  index: -1
+lantern_left
+  rotate: false
+  xy: 946, 683
+  size: 60, 139
+  orig: 60, 139
+  offset: 0, 0
+  index: -1
+lantern_left_glow
+  rotate: true
+  xy: 823, 125
+  size: 168, 175
+  orig: 168, 175
+  offset: 0, 0
+  index: -1
+lantern_right
+  rotate: false
+  xy: 945, 542
+  size: 60, 139
+  orig: 60, 139
+  offset: 0, 0
+  index: -1
+lantern_right_glow
+  rotate: true
+  xy: 768, 768
+  size: 172, 176
+  orig: 172, 176
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 21
+  size: 1022, 343
+  orig: 1022, 343
+  offset: 0, 0
+  index: -1
+tire
+  rotate: false
+  xy: 768, 2
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+tire_hl
+  rotate: false
+  xy: 891, 2
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+truck main
+  rotate: true
+  xy: 347, 162
+  size: 881, 415
+  orig: 881, 415
+  offset: 0, 0
+  index: -1
+truck_interior
+  rotate: false
+  xy: 768, 942
+  size: 192, 101
+  orig: 192, 101
+  offset: 0, 0
+  index: -1
+truck_top_rice
+  rotate: false
+  xy: 347, 2
+  size: 419, 158
+  orig: 419, 158
+  offset: 0, 0
+  index: -1
+truck_top_salmon
+  rotate: true
+  xy: 768, 295
+  size: 471, 175
+  orig: 471, 175
+  offset: 0, 0
+  index: -1

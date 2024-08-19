@@ -1,0 +1,111 @@
+
+gunzhoiu.png
+size: 1276,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gunzhoujiasutexiao/fs_reelglow_00
+  rotate: false
+  xy: 464, 461
+  size: 151, 560
+  orig: 169, 560
+  offset: 16, 0
+  index: -1
+gunzhoujiasutexiao/fs_reelglow_01
+  rotate: true
+  xy: 2, 308
+  size: 151, 560
+  orig: 169, 560
+  offset: 16, 0
+  index: -1
+gunzhoujiasutexiao/fs_reelglow_02
+  rotate: false
+  xy: 617, 461
+  size: 151, 560
+  orig: 169, 560
+  offset: 16, 0
+  index: -1
+gunzhoujiasutexiao/fs_reelglow_03
+  rotate: false
+  xy: 2, 461
+  size: 152, 560
+  orig: 169, 560
+  offset: 15, 0
+  index: -1
+gunzhoujiasutexiao/fs_reelglow_04
+  rotate: true
+  xy: 2, 155
+  size: 151, 560
+  orig: 169, 560
+  offset: 16, 0
+  index: -1
+gunzhoujiasutexiao/fs_reelglow_05
+  rotate: false
+  xy: 156, 461
+  size: 152, 560
+  orig: 169, 560
+  offset: 15, 0
+  index: -1
+gunzhoujiasutexiao/fs_reelglow_06
+  rotate: false
+  xy: 310, 461
+  size: 152, 560
+  orig: 169, 560
+  offset: 15, 0
+  index: -1
+gunzhoujiasutexiao/fs_reelglow_07
+  rotate: false
+  xy: 770, 461
+  size: 151, 560
+  orig: 169, 560
+  offset: 16, 0
+  index: -1
+gunzhoujiasutexiao/fs_reelglow_08
+  rotate: true
+  xy: 2, 2
+  size: 151, 560
+  orig: 169, 560
+  offset: 16, 0
+  index: -1
+gunzhoujiasutexiao/fs_reelglow_09
+  rotate: false
+  xy: 923, 461
+  size: 151, 560
+  orig: 169, 560
+  offset: 16, 0
+  index: -1
+gunzhoujiasutexiao/fs_reelglow_10
+  rotate: false
+  xy: 1076, 461
+  size: 151, 560
+  orig: 169, 560
+  offset: 16, 0
+  index: -1
+gunzhoujiasutexiao/fs_reelglow_11
+  rotate: true
+  xy: 564, 308
+  size: 151, 560
+  orig: 169, 560
+  offset: 16, 0
+  index: -1
+gunzhoujiasutexiao/fs_reelglow_12
+  rotate: true
+  xy: 564, 155
+  size: 151, 560
+  orig: 169, 560
+  offset: 16, 0
+  index: -1
+gunzhoujiasutexiao/fs_reelglow_13
+  rotate: true
+  xy: 564, 2
+  size: 151, 560
+  orig: 169, 560
+  offset: 16, 0
+  index: -1
+zhezhao
+  rotate: false
+  xy: 1126, 281
+  size: 148, 178
+  orig: 148, 178
+  offset: 0, 0
+  index: -1

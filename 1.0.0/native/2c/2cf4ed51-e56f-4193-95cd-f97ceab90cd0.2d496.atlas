@@ -1,0 +1,90 @@
+
+siji.png
+size: 1836,1075
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_a
+  rotate: false
+  xy: 1, 536
+  size: 441, 538
+  orig: 689, 689
+  offset: 127, 76
+  index: -1
+l_a_blur
+  rotate: true
+  xy: 444, 335
+  size: 314, 398
+  orig: 492, 492
+  offset: 91, 48
+  index: -1
+l_a_fg
+  rotate: false
+  xy: 844, 299
+  size: 356, 350
+  orig: 405, 406
+  offset: 25, 28
+  index: -1
+l_j
+  rotate: false
+  xy: 1, 4
+  size: 412, 530
+  orig: 689, 689
+  offset: 145, 83
+  index: -1
+l_j_blur
+  rotate: false
+  xy: 1202, 285
+  size: 294, 392
+  orig: 492, 492
+  offset: 104, 53
+  index: -1
+l_j_fg
+  rotate: true
+  xy: 415, 1
+  size: 332, 355
+  orig: 405, 406
+  offset: 37, 25
+  index: -1
+l_k
+  rotate: true
+  xy: 444, 651
+  size: 423, 552
+  orig: 689, 689
+  offset: 122, 62
+  index: -1
+l_k_blur
+  rotate: false
+  xy: 1532, 667
+  size: 303, 407
+  orig: 492, 492
+  offset: 87, 39
+  index: -1
+l_k_fg
+  rotate: false
+  xy: 1498, 320
+  size: 337, 345
+  orig: 405, 406
+  offset: 34, 30
+  index: -1
+l_q
+  rotate: true
+  xy: 998, 679
+  size: 395, 532
+  orig: 689, 689
+  offset: 148, 81
+  index: -1
+l_q_blur
+  rotate: true
+  xy: 772, 14
+  size: 283, 394
+  orig: 492, 492
+  offset: 105, 51
+  index: -1
+l_q_fg
+  rotate: true
+  xy: 1168, 16
+  size: 267, 349
+  orig: 405, 406
+  offset: 69, 28
+  index: -1
